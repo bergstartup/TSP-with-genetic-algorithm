@@ -15,3 +15,5 @@ GA is a systematic randomized approach to find optimal solution. It is inspired 
 <li>Max fit survives [Least fitness value survives]</li>
 <li>We iterate till k generations, “k” is arbitrary [Termination condition]</li>
 </ul>
+
+For more refer <a href="https://medium.com/@appsby12/optimization-with-the-genetic-algorithm-acb50c5709fd?sk=940a849845d680df2a22d2699fafbe24" target="blank">medium article</a>
